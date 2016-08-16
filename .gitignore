@@ -1,0 +1,8 @@
+## for IntelliJ
+./idea
+
+## for Maven
+/target
+
+## Mac
+.DS_Stroe
